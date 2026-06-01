@@ -74,7 +74,7 @@ npm install -g @deploycheck/deploycheck-mcp
 
 ---
 
-### 🔷 DeadCode Scanner *(in development)*
+### 🔷 DeadCode Scanner 
 > **AI-powered GitHub repo auditor with public shareable report cards**
 
 Point it at any GitHub repo. Get back a brutal, honest report: security vulnerability score, dead code percentage, tech debt index, and actionable fixes — all in a shareable public card you can embed anywhere.
@@ -113,16 +113,6 @@ Aleph Zero is a radical re-architecture of the AI orchestration framework — tr
 | ⚙️ **Zero-Human Control Plane** | REST API · PGlite embedded DB | Atomic execution · persistent state · no runaway loops |
 
 If an agent's simulation fails, the system **instantly rewinds the microVM** to the exact failure point — allowing the AI to test thousands of parallel variables without ever restarting.
-
----
-
-## 🎓 Also Building @ LPU
-
-| Initiative | What |
-|-----------|------|
-| 🎪 **NULLBYTE TechFest 2026** | National-level 2-day college tech festival — Bug Bash, CTF, Reverse Hackathon, AI Art War, 404 Escape Room, Startup Mela |
-| 🏗️ **BuildForStudents (BFS)** | AI-powered EdTech & career platform for Indian college students |
-| ⚡ **VibeCoding** | Online 12-hour AI build challenge · buildforstudents.com |
 
 ---
 
