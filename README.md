@@ -17,15 +17,15 @@
 
 ## ⚡ Who Am I
 
-> *"Most people pick one — student or founder. I never saw the point of that choice."*
+> *"Most people pick one - student or founder. I never saw the point of that choice."*
 
-I'm a 20-something building companies while finishing my degree. Pursuing **B.Tech in Cybersecurity & Blockchain at LPU**, while running **Spotwon Group** as Managing Director, co-founding **CorporateSaathi** (legal-tech for Indian startups), and building **Zuggu** — my latest bet on reimagining how AI and automation can sit closer to the OS layer.
+I'm a 20-something building companies while finishing my degree. Pursuing **B.Tech in Cybersecurity & Blockchain at LPU**, while running **Spotwon Group** as Managing Director, co-founding **CorporateSaathi** (legal-tech for Indian startups), and building **Zuggu** - my latest bet on reimagining how AI and automation can sit closer to the OS layer.
 
 The through-line across all of it: I'm obsessed with **the gap between where things are and where they could be.** In legal infrastructure for founders. In how security gets treated as an afterthought until it isn't. In how AI agents could actually run labs, not just chat windows.
 
 Technically, I work across **full-stack development, cybersecurity, and blockchain**. But honestly, the most useful thing I've built is the ability to **move fast without breaking the things that matter.**
 
-If you're a founder, a student builder, a collaborator, or someone who wants to have an interesting conversation about what's broken and how to fix it — **my DMs are open.**
+If you're a founder, a student builder, a collaborator, or someone who wants to have an interesting conversation about what's broken and how to fix it - **my DMs are open.**
 
 ---
 
@@ -45,27 +45,27 @@ If you're a founder, a student builder, a collaborator, or someone who wants to 
 ### 🔷 [CorporateSaathi](https://corporatesaathi.com)
 > **Legal-tech & compliance platform for Indian startups, SMEs, and freelancers**
 
-India's startup ecosystem is massive. Its legal infrastructure isn't. CorporateSaathi bridges that gap — making compliance, legal documents, and regulatory clarity accessible to founders who can't afford a retainer lawyer.
+India's startup ecosystem is massive. Its legal infrastructure isn't. CorporateSaathi bridges that gap - making compliance, legal documents, and regulatory clarity accessible to founders who can't afford a retainer lawyer.
 
 - ⚖️ Legal document generator (NDA, MoU, agreements)
 - 📋 Startup compliance dashboard
 - 🔍 Trademark search & opinion service
-- 🚀 Startup Spotlight — community growth & lead-gen tool
+- 🚀 Startup Spotlight - community growth & lead-gen tool
 - `React` · `Flask` · `MySQL`
 
 ---
 
 ### 🔷 [DeployCheck](https://github.com/SarthakDhatrak/deploycheck) · by Zuggu
-> **MCP server that catches what AI code generators miss — before they break prod**
+> **MCP server that catches what AI code generators miss - before they break prod**
 
-Every AI coding tool has the same blind spot: it can't verify whether the code it writes will actually *run* in your environment. DeployCheck plugs directly into your AI workflow and audits generated code for environment mismatches, missing configs, and deployment-time failures — before you push.
+Every AI coding tool has the same blind spot: it can't verify whether the code it writes will actually *run* in your environment. DeployCheck plugs directly into your AI workflow and audits generated code for environment mismatches, missing configs, and deployment-time failures - before you push.
 
 ```bash
 npm install -g @deploycheck/deploycheck-mcp
 ```
 
 - 🔍 Detects env/deployment issues in AI-generated code
-- 🔌 MCP-native — works with Claude Code, Cursor, and more
+- 🔌 MCP-native - works with Claude Code, Cursor, and more
 - ⚡ Zero-config setup
 - `Node.js` · `MCP Protocol`
 
@@ -77,12 +77,12 @@ npm install -g @deploycheck/deploycheck-mcp
 ### 🔷 DeadCode Scanner 
 > **AI-powered GitHub repo auditor with public shareable report cards**
 
-Point it at any GitHub repo. Get back a brutal, honest report: security vulnerability score, dead code percentage, tech debt index, and actionable fixes — all in a shareable public card you can embed anywhere.
+Point it at any GitHub repo. Get back a brutal, honest report: security vulnerability score, dead code percentage, tech debt index, and actionable fixes - all in a shareable public card you can embed anywhere.
 
 - 🔐 Security vulnerability detection
 - 🧟 Dead code percentage analysis
 - 📊 Tech debt scoring
-- 🔗 GitHub OAuth — scan any public repo
+- 🔗 GitHub OAuth - scan any public repo
 - `React` · `Flask` · `MySQL` · `Claude API` · `GitHub OAuth`
 
 ---
@@ -90,7 +90,7 @@ Point it at any GitHub repo. Get back a brutal, honest report: security vulnerab
 ### 🔷 [DeployaAI](https://deployaai.com) · by Zuggu
 > **The App Store for AI Agents**
 
-AI agents are proliferating. Deploying them is still a mess. DeployaAI is an agent marketplace where developers publish, discover, and deploy specialized AI agents — with a client dashboard, billing, and orchestration built in.
+AI agents are proliferating. Deploying them is still a mess. DeployaAI is an agent marketplace where developers publish, discover, and deploy specialized AI agents - with a client dashboard, billing, and orchestration built in.
 
 - 🛒 Agent discovery & marketplace
 - 📦 One-click agent deployment
@@ -103,16 +103,16 @@ AI agents are proliferating. Deploying them is still a mess. DeployaAI is an age
 
 > *"You don't just prompt an AI. You deploy an entire decentralized laboratory that tests reality, learns from failure in milliseconds, and mathematically proves its own genius."*
 
-Aleph Zero is a radical re-architecture of the AI orchestration framework — transforming it from a standard multi-agent management tool into a **mathematically verified, autonomous R&D laboratory**. A decentralized AI swarm brute-forces scientific breakthroughs across infinite parallel simulation timelines, then cryptographically proves every discovery.
+Aleph Zero is a radical re-architecture of the AI orchestration framework - transforming it from a standard multi-agent management tool into a **mathematically verified, autonomous R&D laboratory**. A decentralized AI swarm brute-forces scientific breakthroughs across infinite parallel simulation timelines, then cryptographically proves every discovery.
 
 | Layer | Technology | What It Does |
 |-------|-----------|-------------|
 | 🌀 **Omni-Dimensional Sandbox** | DeltaBox · Firecracker microVMs · DeltaFS · DeltaCR | 14ms checkpointing · 5ms rollback · "time travel" on failure |
 | 🛡️ **Byzantine-Robust Consensus** | Geometric Median Algorithm · Leaderless swarm | Filters hallucinating agents · guarantees scientific truth |
-| 🔐 **zkML Cryptographic Trust** | Zero-Knowledge Machine Learning proofs | Every discovery cryptographically verified — no human needed |
+| 🔐 **zkML Cryptographic Trust** | Zero-Knowledge Machine Learning proofs | Every discovery cryptographically verified - no human needed |
 | ⚙️ **Zero-Human Control Plane** | REST API · PGlite embedded DB | Atomic execution · persistent state · no runaway loops |
 
-If an agent's simulation fails, the system **instantly rewinds the microVM** to the exact failure point — allowing the AI to test thousands of parallel variables without ever restarting.
+If an agent's simulation fails, the system **instantly rewinds the microVM** to the exact failure point - allowing the AI to test thousands of parallel variables without ever restarting.
 
 ---
 
@@ -170,6 +170,6 @@ If an agent's simulation fails, the system **instantly rewinds the microVM** to 
 
 *"The most useful thing I've built is the ability to move fast without breaking the things that matter."*
 
-**— Sarthak Dhatrak**
+**- Sarthak Dhatrak**
 
 </div>
